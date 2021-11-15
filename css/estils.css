@@ -28,10 +28,10 @@ body{
 
 
 
-@font-face {
+body {
 
-    font-family: 'SF Pro Display'; /*tipografia implementada */
-     src: url("SFPRODISPLAYREGULAR.OTF");
+    font-family: 'Inter', sans-serif; /*tipografia implementada */
+     
 }
 
 
